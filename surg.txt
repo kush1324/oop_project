@@ -1,0 +1,138 @@
+Name : Accu-Chek Instant S Blood Glucose Meter with 10 test strips
+Code : AC
+Number of Items : 19
+Price : 846Rs
+Total : 16074Rs
+********************************************
+Name : One Touch Glucometer Verio Flex with 10 strips
+Code : OT
+Number of Items : 18
+Price : 1400Rs
+Total : 18200Rs
+********************************************
+Name : Flamingo Lumbar Sacro Belt
+Code : FL
+Number of Items : 7
+Price : 560Rs
+Total : 3920Rs
+********************************************
+Name : Dr Morepen Digital Thermometer
+Code : DT
+Number of Items : 17
+Price : 120Rs
+Total : 2040Rs
+********************************************
+Name : Accu-Chek Instant S Blood Glucose Meter with 10 test strips
+Code : AC
+Number of Items : 19
+Price : 846Rs
+Total : 16074Rs
+********************************************
+Name : One Touch Glucometer Verio Flex with 10 strips
+Code : OT
+Number of Items : 18
+Price : 1400Rs
+Total : 18200Rs
+********************************************
+Name : Flamingo Lumbar Sacro Belt
+Code : FL
+Number of Items : 7
+Price : 560Rs
+Total : 3920Rs
+********************************************
+Name : Dr Morepen Digital Thermometer
+Code : DT
+Number of Items : 17
+Price : 120Rs
+Total : 2040Rs
+********************************************
+Name : crocin
+Code : cr-123
+Number of Items : 7
+Price : 20Rs
+Total : 140Rs
+********************************************
+Name : Accu-Chek Instant S Blood Glucose Meter with 10 test strips
+Code : AC
+Number of Items : 19
+Price : 846Rs
+Total : 16074Rs
+********************************************
+Name : One Touch Glucometer Verio Flex with 10 strips
+Code : OT
+Number of Items : 18
+Price : 1400Rs
+Total : 25200Rs
+********************************************
+Name : Flamingo Lumbar Sacro Belt
+Code : FL
+Number of Items : 7
+Price : 560Rs
+Total : 3920Rs
+********************************************
+Name : Dr Morepen Digital Thermometer
+Code : DT
+Number of Items : 17
+Price : 120Rs
+Total : 2040Rs
+********************************************
+Name : Accu-Chek Instant S Blood Glucose Meter with 10 test strips
+Code : AC
+Number of Items : 19
+Price : 846Rs
+Total : 16074Rs
+********************************************
+Name : One Touch Glucometer Verio Flex with 10 strips
+Code : OT
+Number of Items : 13
+Price : 1400Rs
+Total : 18200Rs
+********************************************
+Name : Flamingo Lumbar Sacro Belt
+Code : FL
+Number of Items : 7
+Price : 560Rs
+Total : 3920Rs
+********************************************
+Name : Dr Morepen Digital Thermometer
+Code : DT
+Number of Items : 17
+Price : 120Rs
+Total : 2040Rs
+********************************************
+Name : dolo
+Code : d-25
+Number of Items : 30
+Price : 100Rs
+Total : 3000Rs
+********************************************
+Name : Accu-Chek Instant S Blood Glucose Meter with 10 test strips
+Code : AC
+Number of Items : 19
+Price : 846Rs
+Total : 16074Rs
+********************************************
+Name : One Touch Glucometer Verio Flex with 10 strips
+Code : OT
+Number of Items : 13
+Price : 1400Rs
+Total : 18200Rs
+********************************************
+Name : Flamingo Lumbar Sacro Belt
+Code : FL
+Number of Items : 7
+Price : 560Rs
+Total : 3920Rs
+********************************************
+Name : Dr Morepen Digital Thermometer
+Code : DT
+Number of Items : 17
+Price : 120Rs
+Total : 2040Rs
+********************************************
+Name : crocin
+Code : cr-12
+Number of Items : 30
+Price : 60Rs
+Total : 1800Rs
+********************************************

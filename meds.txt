@@ -1,0 +1,354 @@
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : abc
+Code : p123
+Number of Items : 20
+Price : 1000Rs
+Total : 20000Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : crocin
+Code : cr790
+Number of Items : 20
+Price : 1000Rs
+Total : 20000Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : crocin500advance
+Code : cr-500AD
+Number of Items : 500
+Price : 60Rs
+Total : 30000Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : crocin
+Code : 500-AD
+Number of Items : 50
+Price : 60Rs
+Total : 3000Rs
+ ********************************************
+Name : Cold Kit-3 Plus  10x1
+Code : CK
+Number of Items : 29
+Price : 36Rs
+Total : 1044Rs
+ ********************************************
+Name : Azithral 500 mg  5x1
+Code : Az-500
+Number of Items : 38
+Price : 93Rs
+Total : 3534Rs
+ ********************************************
+Name : Cetrizine 10mg 10x1
+Code : Ce-10
+Number of Items : 56
+Price : 17Rs
+Total : 952Rs
+ ********************************************
+Name : Oflox 200 mg  10x1
+Code : Of-200
+Number of Items : 20
+Price : 55Rs
+Total : 1100Rs
+ ********************************************
+Name : Amlodac 5 mg  30x1
+Code : Am-5
+Number of Items : 27
+Price : 65Rs
+Total : 1755Rs
+ ********************************************
+Name : Progynova 2 mg  28x1
+Code : Pr-2
+Number of Items : 15
+Price : 360Rs
+Total : 5400Rs
+ ********************************************
+Name : corcin
+Code : Cr-12
+Number of Items : 500
+Price : 60Rs
+Total : 30000Rs
+ ********************************************
